@@ -9,3 +9,5 @@ Download these files in order to get a fast start to your Programming Challenge.
 <br>
 <br>
 For this assignment, you will have to turn in: (1) Your code (.py file), (2) your pseudocode (.docx, .rtf, .txt), (3) a screenshot of your final piece!
+<br>
+Note: You do NOT have to use parametric equations or spirographs in this assignment...I just think they're fun.
